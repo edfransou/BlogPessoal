@@ -24,7 +24,7 @@ public class SwaggerConfig {
 						.version("v0.0.1")
 					.license(new License()
 							.name("Despestar Tech")
-							.url("https://despertar.orb.br/"))
+							.url("https://despertar.org.br/"))
 					.contact(new Contact()
 							.name("Eduardo França de Souza")
 							.url("https://github.com/edfransou")
